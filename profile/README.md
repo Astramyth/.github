@@ -27,7 +27,7 @@ Astramyth is a young engineering team. We take real business problems and turn t
 
 ## 🧰 Tech we work with
 
-`Java` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `Docker` · `Git`
+`Java` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `Docker` · `Git` · `C#` · `.NET` · `Angular`  
 
 ## 🚀 Projects
 
