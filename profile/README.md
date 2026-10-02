@@ -6,10 +6,6 @@
 
 We're a small team of developers crafting reliable backend systems and clean web apps, currently focused on real estate technology.
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-REAL%20ESTATE%20TECH-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STACK-JAVA%20%7C%20TYPESCRIPT-0EA5E9?style=for-the-badge" />
-
 </div>
 
 ---
